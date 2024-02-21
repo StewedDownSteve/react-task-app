@@ -14,7 +14,7 @@ Got to use React and really dive into components, props, state, hooks, and worki
 ## Optimizations
 *(optional)*
 
-I would like to honestly expand this and add a proper backend. Maybe expand the task to be able to hold more info like dates, reminders, and notifications. I would also like to add Google Auth to add security.
+I would like to honestly expand this and add a proper backend. Maybe expand the task to be able to hold more info like dates, a dashboard, and notifications. I would also like to add Google Auth to add security.
 
 ## Lessons Learned:
 
