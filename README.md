@@ -1,4 +1,4 @@
-# React Task Tracker App
+# The Only To Do, Task Tracker App
 A simple but effective task app. Was a great way to get comfortable with React.
 
 ![AppPicture](https://github.com/StewedDownSteve/react-task-app/blob/main/React_task_app_img.webp)
