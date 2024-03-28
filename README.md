@@ -27,6 +27,8 @@ Other projects from my portfolio:
 
 **Ticket Tracker(Full-Stack):** https://github.com/StewedDownSteve/TicketTrackerFullStack
 
+**My Story(Fulls-stack w/ Google OAuth):** https://github.com/StewedDownSteve/storybookscopy/edit/main/README.md
+
 **Drag and Drop Kanban:** https://github.com/StewedDownSteve/Drag_Drop_kanban
 
 **Weather App(Geo Location):** https://github.com/StewedDownSteve/Weather_App_Updated/tree/main
